@@ -18,7 +18,7 @@ Explore the BeatBox Music Player interface through these screenshots:
 
 | Home Screen | Player Screen | Favorites |
 |-------------|--------------|-----------|
-| ![Home Screen](assets/2.png) | ![Player Screen](assets/3.png) | ![Favorites Screen](assets/list.png) |
+| ![Home Screen](assets/2.png) | ![Player Screen](assets/3.png) | ![Favorites Screen](assets/List.png) |
 
 ## Features
 - **Music Playback**: Smooth playback with controls for play, pause, skip, repeat, and shuffle.
