@@ -45,7 +45,7 @@
 
 | Source           | Link                                                                                  |
 |------------------|----------------------------------------------------------------------------------------|
-| 🌐 From Website  | [🔽 Download APK](https://beatboxplayer.netlify.app/)               |
+| 🌐 From Website  | [🔽 Download APK](https://purebeatbox.netlify.app/)               |
 | 📁 GitHub        | [📦 GitHub Releases](https://github.com/decodeaditya/BeatBox-music-player/releases/download/android/beatbox.apk)   |
 
 <p align="center">
